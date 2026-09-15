@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper and software archive."
+title: "MATLAB Codes for MA-Assisted Energy-Harvesting AF Relaying over Alpha-Eta-Mu Fading"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Hussain
+    given-names: Ayaz
+  - family-names: Ansari
+    given-names: Imran Shafique
