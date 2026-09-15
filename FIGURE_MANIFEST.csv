@@ -1,0 +1,13 @@
+Manuscript Figure,Script,Purpose,Default Monte Carlo Size
+Fig. 2,Fig02_Protocol_Comparison.m,TSR/PSR/IRR outage comparison,2e8
+Fig. 3,Fig03_MA_Deployment_PSR.m,MA deployment configurations under PSR,1e8
+Fig. 4,Fig04_Spatial_Correlation_Sensitivity.m,Spatial-correlation sensitivity,2e7 per spacing
+Fig. 5,Fig05_Relay_Power_Saturation.m,Relay-power saturation sensitivity,2e7
+Fig. 6,Fig06_Fading_Generality.m,Fading generality and heterogeneous special-case validation,1e8 per case
+Fig. 7,Fig07_Candidate_Position_Allocation.m,Candidate-position allocation,1e8
+Fig. 8,Fig08_FullSNR_Bounds.m,Exact outage and finite-sum bounds,1e6
+Fig. 9,Fig09_Bound_Convergence.m,Bound-gap convergence,analytical
+Fig. 10,Fig10_Energy_Outage.m,Energy-QoS outage,1e6
+Fig. 11,Fig11_Energy_Feasibility.m,Energy-reliability feasibility,1e6
+Fig. 12,Fig12_Optimized_Energy_Demand.m,Optimized throughput versus energy demand,1e6
+Fig. 13,Fig13_Joint_Optimization.m,Joint optimization and runtime reporting,1e6
